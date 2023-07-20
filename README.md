@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cu-ree&label=Profile%20views&color=0e75b6&style=flat" alt="cu-ree" /> </p>
 
-- 🏆️ I'm awarded the following <p> **전국 창업 아이디어 경진대회 장려상 / 2018 교내 학술제 대회 우수상 / CUP 창업캠프 우수상 / 2023 교내 학술제 대회 우수상**
+- 🏆️ I'm awarded the following <p> **[전국 창업 아이디어 경진대회 장려상 / 2018 교내 학술제 대회 우수상 / CUP 창업캠프 우수상 / 2023 교내 학술제 대회 우수상]**
 
 - 📝 I regularly write articles on [https://blog.naver.com/cryptoestate](https://blog.naver.com/cryptoestate)
 
-- 🏫 I graduated from this school **Catholic University of Busan**
+- 🏫 I graduated from this school **[Catholic University of Busan]**
 
 - 📫 How to reach me **ljw1002kr@naver.com**
 
