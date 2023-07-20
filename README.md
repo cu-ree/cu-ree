@@ -11,6 +11,8 @@
 
 - 🏫 I graduated from this school **[Catholic University of Busan 부산가톨릭대학교]**
 
+- 📚 I graduated from this department **[Software 소프트웨어학과]**
+
 - 📫 How to reach me **ljw1002kr@naver.com**
 
 <h3 align="left">Connect with me:</h3>
