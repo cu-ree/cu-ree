@@ -7,9 +7,9 @@
 
 - 🏆️ I'm awarded the following <p> **[전국 창업 아이디어 경진대회 장려상 / 2018 교내 학술제 대회 우수상 / CUP 창업캠프 우수상 / 2023 교내 학술제 대회 우수상]**
 
-- 💻 I regularly write articles on [https://blog.naver.com/cryptoestate](https://blog.naver.com/cryptoestate)
-
 - 📝 I regularly write articles on [https://cu-ree.github.io/](https://cu-ree.github.io/)
+
+- 💻 I regularly write articles on [https://blog.naver.com/cryptoestate](https://blog.naver.com/cryptoestate)
 
 - 🏫 I graduated from this school **[Catholic University of Busan 부산가톨릭대학교]**
 
