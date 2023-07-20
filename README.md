@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://blog.naver.com/cryptoestate](https://blog.naver.com/cryptoestate)
 
-- 🏫 I graduated from this school **[Catholic University of Busan]**
+- 🏫 I graduated from this school **[Department of Software, Catholic University of Busan 부산가톨릭대학교 소프트웨어학과]**
 
 - 📫 How to reach me **ljw1002kr@naver.com**
 
