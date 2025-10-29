@@ -9,8 +9,6 @@
 
 - 📝 I regularly write articles on [https://cu-ree.github.io/](https://cu-ree.github.io/)
 
-- 💻 I regularly write articles on [https://blog.naver.com/cryptoestate](https://blog.naver.com/cryptoestate)
-
 - 🏫 I graduated from this school **[Catholic University of Busan 부산가톨릭대학교]**
 
 - 📚 I graduated from this department **[Software 소프트웨어학과]**
